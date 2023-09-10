@@ -14,6 +14,9 @@ namespace c_sharp_test_git
             Console.WriteLine("Hello World!");
 
             Console.WriteLine("feature1");
+
+            Console.WriteLine("feature1");
+            Console.WriteLine("feature1");
         }
     }
 }
